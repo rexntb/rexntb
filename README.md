@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rex (@rexntb)
-- 👀 I’m interested in Web Development and Salesforce development
+- 👀 I’m interested in Salesforce and modern web technologies
 - 🌱 I’m currently learning identity access & management
 - 💞️ I’m open to collaborating on projects where I can contribute and learn
 - 📫 How to reach me: Tbd
