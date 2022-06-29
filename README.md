@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rex (@rexntb)
 - 👀 I’m interested in Web Development and Salesforce development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on projects where I can contribute and learn
-- 📫 How to reach me: Discord @ rexCodes#7671
+- 🌱 I’m currently learning identity access & management
+- 💞️ I’m open to collaborating on projects where I can contribute and learn
+- 📫 How to reach me: Tbd
 
 <!---
 rexntb/rexntb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
